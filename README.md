@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on [Inventory System CPP](https://github.com/DavidCRicardo/InventorySystemCPP)
 - 🌱 I’m currently learning UE4 C++ API
