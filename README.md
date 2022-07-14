@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [Inventory System CPP](https://github.com/DavidCRicardo/InventorySystemCPP)
 - 🌱 I’m currently learning UE4 C++ API
 - 📫 How to reach me: [Twitter](https://twitter.com/DavidCRicardo)
+- 📫 Portfolio with old projects: [Portfolio](https://davidcricardo.github.io/)
 
 <!--
 **DavidCRicardo/DavidCRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
