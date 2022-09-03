@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning UE4 C++ API
 - 📫 How to reach me: [Twitter](https://twitter.com/DavidCRicardo)
 - 📫 Portfolio with old projects: [Portfolio](https://davidcricardo.github.io/)
-- ☕ Support me on [Kofi](https://ko-fi.com/davidcricardo/) or on [Patreon](https://www.patreon.com/davidcricardo/)
+- ☕ Support me on [Github](https://github.com/sponsors/DavidCRicardo/) / [Kofi](https://ko-fi.com/davidcricardo/) / [Patreon](https://www.patreon.com/davidcricardo/) 
 
 <!--
 **DavidCRicardo/DavidCRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
