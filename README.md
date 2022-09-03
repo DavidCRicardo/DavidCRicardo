@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on [Inventory System CPP](https://github.com/DavidCRicardo/InventorySystemCPP)
+- 🔭 I’m currently working on [Inventory System CPP](https://youtu.be/oyq-Yn8kdJI)
 - 🌱 I’m currently learning UE4 C++ API
 - 📫 How to reach me: [Twitter](https://twitter.com/DavidCRicardo)
 - 📫 Portfolio with old projects: [Portfolio](https://davidcricardo.github.io/)
