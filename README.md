@@ -1,10 +1,11 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on [Inventory System CPP](https://youtu.be/oyq-Yn8kdJI)
+- 🔭 I’m currently working on one game.
 - 🌱 I’m currently learning UE4 C++ API
 - 📫 How to reach me: [Twitter](https://twitter.com/DavidCRicardo)
+- 💬 [Inventory System CPP UE4](https://github.com/DavidCRicardo/InventorySystemCPP)
 - 📫 Portfolio with old projects: [Portfolio](https://davidcricardo.github.io/)
-- ☕ Support me on [Github](https://github.com/sponsors/DavidCRicardo/) / [Kofi](https://ko-fi.com/davidcricardo/) / [Patreon](https://www.patreon.com/davidcricardo/) 
+- ☕ Support me on [Github](https://github.com/sponsors/DavidCRicardo/) / [Kofi](https://ko-fi.com/davidcricardo/) 
 
 <!--
 **DavidCRicardo/DavidCRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
