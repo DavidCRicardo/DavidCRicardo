@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/DavidCRicardo)
 - 💬 [Inventory System CPP UE](https://github.com/DavidCRicardo/InventorySystemCPP)
 - 📫 Portfolio with old projects: [Portfolio](https://davidcricardo.github.io/)
-- ☕ Support me on [Kofi](https://ko-fi.com/davidcricardo/) / [PayPal](https://www.paypal.com/paypalme/dricardo97)
+- ☕ Support me on [Kofi](https://ko-fi.com/davidcricardo/) 
 
 <!--
 **DavidCRicardo/DavidCRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
